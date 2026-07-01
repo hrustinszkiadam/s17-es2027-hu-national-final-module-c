@@ -1,6 +1,8 @@
-# Title of the Project
+# Marketable IT Skills Project Repository
 
-descriptive-title-of-the-project
+## Title of the Project
+
+SkillShare Academy Content Service
 
 ## Skill domain(s)
 
@@ -8,12 +10,13 @@ descriptive-title-of-the-project
 
 ## Task Origin
 
-This project task is based on test projects based on the **competition-name** competition **module-name test project** submitted by **name-of-the-test-project-writer(s)**. The original task was updated, modularized, and standardized to form the basis of the project task repository within the Erasmus+ **"Marketable IT Skills: Integrating Real-World Challenges into Vocational Education"** project.
+This project task is based on the **EuroSkills 2027 HU National Final** competition **Module C test project**, submitted by **Skills IT Hungary**. The original task was updated, modularized, and standardized to form the basis of the project task repository within the Erasmus+ **"Marketable IT Skills: Integrating Real-World Challenges into Vocational Education"** project.
 
 ## Content
 
 - [Project Description](project-description.md)
-- [Media Files](tree/main/src/assets)
+- [Media Files](assets)
+- [Marking Scheme](marking/marking-scheme.json)
 
 ## About the Project
 
